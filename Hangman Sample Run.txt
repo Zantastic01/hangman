@@ -1,0 +1,116 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: C:\Users\Zjones0935\HangMan.py ==================
+  _    _                   __  __
+ | |  | |                 |  \/  |
+ | |__| | __ _ _ __   __ _| \  / | __ _ _ __ 
+ |  __  |/ _` | '_ \ / _` | |\/| |/ _` | '_ \ 
+ | |  | | (_| | | | | (_| | |  | | (_| | | | |
+ |_|  |_|\__,_|_| |_|\__, |_|  |_|\__,_|_| |_|
+                      __/ |                  
+                     |___/       
+What is your name?Bob
+Lets get started :)Bob
+You have 7 tries.
+------- -------
+Guess a Letter Bob q
+------- -------
+Strikes: 1
+True guesses: 
+False guesses: q
+Guess a Letter Bob z
+------- -------
+Strikes: 2
+True guesses: 
+False guesses: qz
+Guess a Letter Bob s
+------- -------
+Strikes: 3
+True guesses: 
+False guesses: qzs
+Guess a Letter Bob t
+------- -------
+Strikes: 4
+True guesses: 
+False guesses: qzst
+Guess a Letter Bob o
+----o-- -------
+Strikes: 4
+True guesses: o
+False guesses: qzst
+Guess a Letter Bob p
+----o-- -------
+Strikes: 5
+True guesses: o
+False guesses: qzstp
+Guess a Letter Bob q
+----o-- -------
+Strikes: 6
+True guesses: o
+False guesses: qzstpq
+Guess a Letter Bob q
+----o-- -------
+Strikes: 7
+True guesses: o
+False guesses: qzstpqq
+Do better :( Bob.
+Would you like to play again? (y/n) Yes
+I don't understand. Please enter 'y' or 'n'.
+Would you like to play again? (y/n) y
+You have 7 tries.
+------- -------
+Guess a Letter Bob W
+W------ -------
+Strikes: 0
+True guesses: W
+False guesses: 
+Guess a Letter Bob e
+We----e -------
+Strikes: 0
+True guesses: We
+False guesses: 
+Guess a Letter Bob l
+Wel---e -------
+Strikes: 0
+True guesses: Wel
+False guesses: 
+Guess a Letter Bob c
+Welc--e -------
+Strikes: 0
+True guesses: Welc
+False guesses: 
+Guess a Letter Bob o
+Welco-e -------
+Strikes: 0
+True guesses: Welco
+False guesses: 
+Guess a Letter Bob m
+Welcome ----m--
+Strikes: 0
+True guesses: Welcom
+False guesses: 
+Guess a Letter Bob h
+Welcome h---m--
+Strikes: 0
+True guesses: Welcomh
+False guesses: 
+Guess a Letter Bob a
+Welcome ha--ma-
+Strikes: 0
+True guesses: Welcomha
+False guesses: 
+Guess a Letter Bob n
+Welcome han-man
+Strikes: 0
+True guesses: Welcomhan
+False guesses: 
+Guess a Letter Bob g
+Welcome hangman
+Strikes: 0
+True guesses: Welcomhang
+False guesses: 
+You Got It! Bob
+Would you like to play again? (y/n) no
+Made by The man with the play>>>>>ZAN
+>>> 
